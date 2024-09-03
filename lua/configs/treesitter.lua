@@ -1,8 +1,5 @@
 require("nvim-treesitter.configs").setup {
-  -- Parser yang akan di-install secara otomatis
   ensure_installed = {
-    "c",
-    "cpp",
     "lua",
     "vim",
     "vimdoc",
