@@ -16,8 +16,8 @@ M.ui = {
   transparency = true,
   theme = "catppuccin",
   statusline = {
-    theme = "vscode_colored",
-    separator_style = "block",
+    theme = "minimal",
+    separator_style = "round",
   },
   nvdash = {
     load_on_startup = true,
